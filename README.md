@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/3Mk80ix.png"width="900" height="300"/>
+  <img src="https://tproger.ru/s3/uploads/2017/02/python-undersccores.png"width="1000" height="300"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=40&duration=5037&color=2F2EF7&background=1E42FF00&multiline=true&lines=Oh%2C+thahts+a+big+start.)](https://git.io/typing-svg)
